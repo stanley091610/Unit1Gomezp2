@@ -381,6 +381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 924c8d796a7e7cb49bd6aba718619df1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  inputID: 
   mainCamera: {fileID: 534669904}
   hoodCamera: {fileID: 351831613}
   switchkey: 0
@@ -893,7 +894,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 436868, guid: 70bf34f6c25c948458f254e87188b00b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.21
       objectReference: {fileID: 0}
     - target: {fileID: 436868, guid: 70bf34f6c25c948458f254e87188b00b, type: 3}
       propertyPath: m_LocalPosition.y
